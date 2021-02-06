@@ -1,1 +1,27 @@
+# Misc
 .DS_Store
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/yarn.lock
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Dependency directories
+frontend/node_modules/
+/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# Testing
+frontend/coverage
+
+# production
+frontend/build
+
+# VSCode
+netflix-tracker.code-workspace
